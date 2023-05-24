@@ -939,6 +939,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb8c7a7f2899f70458fa4233b933dfca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _recordingFeedback: {fileID: 83026659}
   _activityLogger: {fileID: 1395952195}
   _watchClient: {fileID: 1448285274}
 --- !u!4 &793334425
